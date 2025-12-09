@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Chandra Venkata Sai Sarika
+# 👋 Hi, I'm Chandra Venkata Sai Sarika ![GitHub Followers](https://img.shields.io/github/followers/venkata3204sai?label=Follow&style=flat)
+
 
 - Bachelor's Student at **Blekinge Institute of Technology (BTH)**, Karlskrona
 - Originally from India | Currently studying in Sweden
@@ -22,7 +23,8 @@ As I grow, this space will include more polished and personal projects.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkata3204sai&show_icons=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=venkata3204sai&show_icons=true)
+
 
 ## Connect With Me
 
