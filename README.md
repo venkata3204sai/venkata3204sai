@@ -21,9 +21,15 @@ I frequently upload:
 
 As I grow, this space will include more polished and personal projects.
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/venkata3204sai/venkata3204sai/output/snake.svg)
+
+<!-- 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=venkata3204sai&show_icons=true)
+ ... -->
 
 
 ## Connect With Me
