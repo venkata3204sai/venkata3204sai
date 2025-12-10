@@ -21,7 +21,7 @@ I frequently upload:
 
 As I grow, this space will include more polished and personal projects.
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/venkata3204sai/venkata3204sai/output/snake.svg)
 
@@ -37,5 +37,5 @@ As I grow, this space will include more polished and personal projects.
 - Email: *venkatasai3204@gmail.com*  
 - LinkedIn: *https://www.linkedin.com/in/chandra-venkata-sai-sarika-835abb24b*
 
-### 🌱 Thanks for visiting my profile!  
+### Thanks for visiting my profile!  
 I'm continuously learning and improving — feel free to explore my repositories.
