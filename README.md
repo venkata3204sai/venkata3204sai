@@ -6,9 +6,11 @@
 - Exploring different areas of computer science as my curriculum evolves
 - Interested in software development, problem-solving, and learning new tools & technologies
 
-## About Me  
-I am currently pursuing my Bachelor’s degree in Computer Science.  
-Since my coursework changes each semester, I work with **different programming languages and tools regularly**, which helps me stay flexible and open to learning.
+## About Me
+I am a Computer Science and Engineering student who prefers to understand a problem before moving to a solution.
+I work in a structured and thoughtful way, asking questions to find effective approaches.
+I am comfortable working both independently and in teams, and I take responsibility for completing my tasks while supporting others when needed.
+I am consistently learning and find strong motivation in solving real, practical problems.
 
 ## University Projects & Labs
 
