@@ -37,7 +37,7 @@ As I grow, this space will include more polished and personal projects.
 ## Connect With Me
 
 - Email: *venkatasai3204@gmail.com*  
-- LinkedIn: *https://www.linkedin.com/in/chandra-venkata-sai-sarika-835abb24b*
+- LinkedIn: *www.linkedin.com/in/venkata3204sai*
 
 ### Thanks for visiting my profile!  
 I'm continuously learning and improving — feel free to explore my repositories.
